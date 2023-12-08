@@ -48,7 +48,7 @@ void ReplacingString(int[,] matr)
 }
 
 
-int[,] matrix = new int[4, 4]; 
+int[,] matrix = new int[5, 4]; 
 FillArray(matrix);
 PrintArray(matrix);
 Console.WriteLine();

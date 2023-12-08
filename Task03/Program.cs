@@ -47,7 +47,7 @@ void MinRowSum(int[,] matr)
     Console.WriteLine($"\nСтрока c наименьшей суммой элементов: {MinSum + 1}");
 }
 
-int[,] matrix = new int[4, 4];
+int[,] matrix = new int[3, 4];
 FillArray(matrix);
 PrintArray(matrix);
 Console.WriteLine();
